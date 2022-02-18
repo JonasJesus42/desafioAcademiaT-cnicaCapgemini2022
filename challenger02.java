@@ -1,5 +1,3 @@
-package challengerCapgemini;
-
 import java.util.Scanner;
 
 public class challenger02 {
