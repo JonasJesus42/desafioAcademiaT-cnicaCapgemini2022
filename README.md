@@ -34,7 +34,8 @@ Este desafio e mais complexo foi entender o requisito desejados o que leva a rac
 <a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/5N5Sf3mN/senhav2.jpg" alt="senhav2"/></a>
 <br/>
 ### Desafio 3
-Um desafio desafiador de verdade, pelas minhas pesquisas não encontrei nada conversas com amigos descubro que anagrama de pares e usado em criptografia e ter essa informação não ajudou muito, estudei sobre SubString e entendi melhor ate achei o método no java, e fui entender melhor que nada mais é que a junção de subStrings com anagrama então ficou fácil separar as etapas para conseguir o resultas, mas gerou mais dor de cabeça pós o exemplo de ovo dava 3 e no meu código estava dando 2, mas foi alterado e descobri que estava certo, foi utilizado array, for, substring para a construção do código.
+Um desafio desafiador de verdade, pelas minhas pesquisas não encontrei nada conversas com amigos descubro que anagrama de pares e usado em criptografia e ter essa informação não ajudou muito, estudei sobre SubString e entendi melhor ate achei o método no java, e fui entender melhor que nada mais é que a junção de subStrings com anagrama então ficou fácil separar as etapas 
+de desenvolvimento para conseguir o resulta o mais difícil foi pensar em uma logica para separar strings terminei, mas gerou mais dor de cabeça pós o exemplo de ovo dava 3 e no meu código estava dando 2, mas foi alterado e descobri que estava certo, foi utilizado array, for, substring para a construção do código.
 
 <b>Anagrama de OVO</b>
 <br/>
